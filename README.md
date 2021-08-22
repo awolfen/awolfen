@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @awolfen - Alfie Wolfenden
+- 👀 I’m interested in - Full Stack Development of web and mobile applications using MERN stack and related technologies.
+- 🌱 I’m currently learning AWS/Python/GraphQL
